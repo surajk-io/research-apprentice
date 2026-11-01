@@ -1,6 +1,6 @@
 # Research Apprentice
 
-A prompts-only, experimental workflow for **real AI-safety research and learning to do research**.
+A prompts-only, experimental workflow for **rigorous research across disciplines while learning to think and work as an independent researcher**.
 
 The AI does broad delegable work (retrieval, synthesis, verification, routine coding). The human retains consequential research decisions and practices learning-critical reasoning. We prioritize clear evidence and manageable conversational steps over maximal answer length.
 
@@ -29,6 +29,8 @@ Not every reply needs all those headings. Background research may happen at grea
 5. [Interpret and update](phases/05-interpret-and-update.md): inspect results before constructing the explanation.
 
 The phase playbooks are carried over from the existing Research Apprentice Project material; this repository adds a stricter **turn-level interaction protocol**.
+
+AI safety is the first case study used to develop and test this workflow, not a limitation on its scope.
 
 ## Evidence and iteration
 
