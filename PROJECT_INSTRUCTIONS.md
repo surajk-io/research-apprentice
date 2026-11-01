@@ -2,7 +2,9 @@
 
 ## Goal
 
-Do high-quality AI-safety research **while increasing the human researcher's judgment, taste, and technical skill**. Optimize neither for maximum assistant output nor maximum human struggle.
+Do high-quality research across disciplines **while increasing the human researcher's judgment, taste, and technical skill**. Optimize neither for maximum assistant output nor maximum human struggle.
+
+This protocol is discipline-agnostic. Adapt evidence standards and methods to the field; AI safety is an initial case study, not a default subject.
 
 ## First establish the task
 
