@@ -7,7 +7,7 @@ The AI does broad delegable work (retrieval, synthesis, verification, routine co
 ## Start here
 
 1. Put the text in [PROJECT_INSTRUCTIONS.md](PROJECT_INSTRUCTIONS.md) into a dedicated ChatGPT Project's instructions. Existing Project instructions should be replaced or reconciled, not left in conflict. Repository files do **not** automatically become active ChatGPT instructions.
-2. Make the [phase playbooks](phases/) available to the assistant (as project files, connected GitHub files, or pasted context) when that phase is relevant.
+2. Enable GitHub access or another way for the assistant to retrieve the live public repository. At each new research exercise, the assistant must read this README, the current [PROJECT_INSTRUCTIONS.md](PROJECT_INSTRUCTIONS.md), and the relevant [phase playbook](phases/) from the canonical repository; re-fetch the playbook when phases change. Do not maintain uploaded duplicates as authoritative methodology. If retrieval fails, the assistant must disclose the limitation and any fallback. Research evidence and project-specific materials can still be kept as project sources.
 3. Start a chat with the concrete goal and boundaries. Example:
 
    > Use Research Apprentice. I need to understand the theory behind this exact question before attempting an answer myself. Provide minimum sufficient background; do not draft the answer. Stop after my independent attempt and your critique.
@@ -35,7 +35,7 @@ AI safety is the first case study used to develop and test this workflow, not a 
 ## Evidence and iteration
 
 - [Pilot 1: reward-hacking environment design](pilots/2026-11-02-reward-hacking.md)
-- **Status: v0.1 candidate protocol.** One productive interaction is not evidence of reliability or learning gains. Test on more cases, record deviations, and revise.
+- **Status: v0.3 candidate protocol.** The pilot and subsequent feedback informed the current instructions; they are not evidence of reliability or learning gains. Test on more cases, record deviations, and revise.
 - Preserve clear boundaries between observed evidence, research interpretation, speculation, and assistant-generated suggestions.
 
 ## What this is not
