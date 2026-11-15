@@ -32,6 +32,14 @@ Look for:
 
 Distinguish observed result from interpretation and claim.
 
+## Proportional revision
+
+Compare the observations with the hypotheses, predictions, and assumptions recorded before seeing the results, where available. Distinguish pre-existing expectations from explanations developed afterward.
+
+Identify which claims should change, how strongly, and why; also identify important claims that the evidence does not bear on. Trace downstream implications only when justified by the evidence and the dependencies between claims.
+
+Apply equal scrutiny to human and AI interpretations, and to results that favor or undermine the preferred hypothesis. Do not treat a fluent retrospective explanation as evidence for a mechanism. Mark newly proposed explanations as hypotheses until independently supported.
+
 ## Human decides
 
 Decide what the project should conclude for now:
