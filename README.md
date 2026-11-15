@@ -35,7 +35,7 @@ AI safety is the first case study used to develop and test this workflow, not a 
 ## Evidence and iteration
 
 - [Pilot 1: reward-hacking environment design](pilots/2026-11-02-reward-hacking.md)
-- **Status: v0.3 candidate protocol.** The pilot and subsequent feedback informed the current instructions; they are not evidence of reliability or learning gains. Test on more cases, record deviations, and revise.
+- **Status: v0.4 candidate protocol.** The pilot and subsequent feedback, including the AI × Epistemics sprint, informed the current instructions; they are not evidence of reliability or learning gains. v0.4 emphasizes conditional critique, symmetric scrutiny of AI reasoning, faithful interpretation of human claims, and explanatory depth without excessive information density. Test on more cases, record deviations, and revise.
 - Preserve clear boundaries between observed evidence, research interpretation, speculation, and assistant-generated suggestions.
 
 ## What this is not
