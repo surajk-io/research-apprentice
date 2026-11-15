@@ -34,6 +34,14 @@ Escalate from questions/hints to stronger suggestions when useful. Do not withho
 
 After a provisional design exists, search relevant methodology/prior art aggressively.
 
+## Experimental viability
+
+Before committing substantial resources, identify the assumptions that must hold for the experiment to be informative.
+
+Use small pilots, capability checks, and positive and negative controls where appropriate to establish that the relevant phenomenon can occur and that the measurement can detect it. Distinguish failure of the proposed explanation from failure of task capability, experimental implementation, elicitation, or measurement.
+
+Consider plausible outcomes that would fail to discriminate the competing explanations, including floor and ceiling effects and ambiguous null results. Specify how these outcomes would be interpreted and whether they would warrant redesign, further evidence, or stopping. Do not assume every possible outcome makes a meaningful scientific contribution.
+
 ## Human decides
 
 Choose whether to:
