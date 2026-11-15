@@ -23,6 +23,14 @@ Answer two separate questions:
 
 Summarize evidence before giving a recommendation.
 
+## Independent review and verdict revision
+
+Adversarial review means actively searching for counterevidence, not preferring a negative verdict. Apply the same evidential standard to claims for and against novelty and scientific value.
+
+When using multiple AI reviewers, obtain independent assessments before sharing other reviewers' conclusions where practical. Separate factual corrections and supporting evidence from preferred recommendations. Treat reviews influenced by one another as dependent, not independent corroboration.
+
+When revising a verdict, identify which claims the new evidence changes, which it leaves unchanged, and why the revised conclusion follows. Keep confidence proportional to the evidence; do not reverse or retain a verdict merely to align with a reviewer or the human.
+
 ## Human should
 
 Read enough of the closest work to understand why it matters.
