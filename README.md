@@ -14,6 +14,9 @@ The AI does broad delegable work (retrieval, synthesis, verification, routine co
 
 4. At any point, say **“consolidate”**, **“give me the evidence”**, **“I'm stuck”**, **“answer directly”**, or **“stop the exercise”**. These are controls, not tests of the human.
 
+## Operating modes
+Choose the allocation of reasoning separately from the research phase. The default is **collaborative research** (scientific output plus protected human reasoning); **learning** prioritizes human practice, and **delegated research** prioritizes an explicitly bounded deliverable. Ask explicitly before switching the overall objective. Routine direct answers and artifact requests are local delegation, not blanket mode changes. When deadlines threaten the learning objective, reduce scope or explicitly delegate; preserve skipped consequential reasoning as learning debt and offer a later evidence-first or fresh transfer exercise.
+
 ## What a normal reasoning loop looks like
 
 **Problem → necessary definitions → relevant evidence → precise objective → human attempt → focused feedback → consolidate or continue.**
@@ -35,7 +38,8 @@ AI safety is the first case study used to develop and test this workflow, not a 
 ## Evidence and iteration
 
 - [Pilot 1: reward-hacking environment design](pilots/2026-11-02-reward-hacking.md)
-- **Status: v0.5 candidate protocol.** The pilot and subsequent feedback, including the AI × Epistemics sprint, informed the current instructions; they are not evidence of reliability or learning gains. v0.4 emphasizes conditional critique, symmetric scrutiny of AI reasoning, faithful interpretation of human claims, and explanatory depth without excessive information density. v0.5 adds epistemic independence, evidence-proportional revision, independent AI review, and caution about retrospective accounts of model reasoning. Test on more cases, record deviations, and revise.
+- [Sprint retrospective: AI × Epistemics](pilots/2026-11-16-ai-epistemics.md)
+- **Status: v0.6 candidate protocol.** The pilot and subsequent feedback, including the AI × Epistemics sprint, informed the current instructions; they are not evidence of reliability or learning gains. v0.4 emphasizes conditional critique, symmetric scrutiny of AI reasoning, faithful interpretation of human claims, and explanatory depth without excessive information density. v0.5 adds epistemic independence, evidence-proportional revision, independent AI review, and caution about retrospective accounts of model reasoning. v0.6 adds explicit operating modes, deadline safeguards, lightweight reasoning provenance and recovery of missed learning, as well as stronger design/interpretation checkpoints. Test on more cases, record deviations, and revise.
 - Preserve clear boundaries between observed evidence, research interpretation, speculation, and assistant-generated suggestions.
 
 ## What this is not

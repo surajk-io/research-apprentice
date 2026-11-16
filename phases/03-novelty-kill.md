@@ -21,11 +21,11 @@ Answer two separate questions:
 1. Has the substantive question already been answered?
 2. If not, would resolving the remaining uncertainty teach us something meaningful?
 
-Summarize evidence before giving a recommendation.
+Present the closest evidence and its bearing on the candidate before giving a recommendation. In learning/collaborative mode, give the human a chance to form a provisional novelty judgment from that evidence; in an explicitly delegated review, provide the recommendation directly. Record which judgment was made before AI input when consequential.
 
 ## Independent review and verdict revision
 
-Adversarial review means actively searching for counterevidence, not preferring a negative verdict. Apply the same evidential standard to claims for and against novelty and scientific value.
+Adversarial review means actively searching for counterevidence, not preferring a negative verdict. Keep the review target, scale and criteria fixed when comparing assessments; a different venue or standard is a separate assessment, not a correction by itself. Check critiques against the actual study and distinguish already-disclosed assumptions, genuine construct failures, and plausible untested alternatives. Apply the same evidential standard to claims for and against novelty and scientific value.
 
 When using multiple AI reviewers, obtain independent assessments before sharing other reviewers' conclusions where practical. Separate factual corrections and supporting evidence from preferred recommendations. Treat reviews influenced by one another as dependent, not independent corroboration.
 

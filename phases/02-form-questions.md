@@ -35,7 +35,7 @@ Do not convert every interesting observation into a candidate project.
 
 ## Human should
 
-Formulate the candidate question in their own words.
+Formulate the candidate question in their own words before seeing a polished AI-generated question, when in learning or collaborative mode. If the AI already proposed the question, distinguish adopting it from generating it independently; ask the human to explain the underlying uncertainty and why it matters, not to merely rephrase the suggestion. Explicitly delegated question formation remains allowed but is not evidence of unaided question-generation skill.
 
 Try to state:
 - what is currently uncertain;
